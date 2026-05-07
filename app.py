@@ -272,7 +272,7 @@ st.markdown("""
 # =========================
 # API CONFIGURATION
 # =========================
-API_URL = "http://localhost:8000"
+API_URL = "https://movie-recommendation-system-9l20.onrender.com" or "http://localhost:8000"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 # Session State
 if 'view' not in st.session_state:
