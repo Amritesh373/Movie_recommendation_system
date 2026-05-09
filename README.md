@@ -69,8 +69,9 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the project
 
-
 streamlit link - https://movierecommendationsystem-v32kpfynaqfuqejdcsznlq.streamlit.app/
+
+========
 
 ---
 
@@ -94,7 +95,12 @@ streamlit link - https://movierecommendationsystem-v32kpfynaqfuqejdcsznlq.stream
 ## 🔹 Similar Movies Result
 
 ![Similar Movies](screenshots/output3.png)
+=======
+
+## 🔹 Similar Movies Result
+
 ![Similar Movies](screenshots/output4.png)
+>>>>>>> cb32bb543752b6b02d7b9046da83521e0feae4a6
 
 ---
 
@@ -126,4 +132,8 @@ Feel free to fork the repository and submit pull requests.
 
 # ⭐ If you like this project
 
+
 Give this repository a ⭐ on GitHub and support the project.
+=======
+Give this repository a ⭐ on GitHub and support the project.
+>>>>>>> cb32bb543752b6b02d7b9046da83521e0feae4a6
