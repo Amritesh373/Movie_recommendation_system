@@ -89,17 +89,17 @@ streamlit link - https://movierecommendationsystem-v32kpfynaqfuqejdcsznlq.stream
 
 ## 🔹 Recommendation Output
 
-![Recommendation Output](screenshots/output1.png)
-![Recommendation Output](screenshots/output2.png)
+![Recommendation Output](Screenshots/output1.png)
+![Recommendation Output](Screenshots/output2.png)
 
 ## 🔹 Similar Movies Result
 
-![Similar Movies](screenshots/output3.png)
+![Similar Movies](Screenshots/output3.png)
 =======
 
 ## 🔹 Similar Movies Result
 
-![Similar Movies](screenshots/output4.png)
+![Similar Movies](Screenshots/output4.png)
 >>>>>>> cb32bb543752b6b02d7b9046da83521e0feae4a6
 
 ---
